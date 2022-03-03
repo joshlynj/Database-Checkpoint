@@ -14,3 +14,7 @@ Challenge 4:
 
 Challenge 5:
 ![image](https://user-images.githubusercontent.com/96899068/156637242-53122509-ec18-4c10-ab0a-5eacf0dc8caf.png)
+
+Challenge 6: 
+![image](https://user-images.githubusercontent.com/96899068/156637509-708835b9-dc88-4a46-ac83-e75045dd4a66.png)
+
